@@ -1,9 +1,9 @@
 # Ignore paths that contain user-generated content.
-docroot/files
-docroot/sites/*/files
-docroot/sites/*/private
-docroot/sites/*/settings.local.php
-docroot/*/settings.local.php
+www/files
+www/sites/*/files
+www/sites/*/private
+www/sites/*/settings.local.php
+www/*/settings.local.php
 acquia-file
 /log
 

@@ -1,6 +1,6 @@
-docroot/themes/custom/**/css/components/*.css
-docroot/themes/custom/**/css/plugins/*.css
-docroot/themes/custom/**/css/base/bootstrap.base.css
-docroot/themes/custom/**/css/rtl/base/vartheme_bs4-rtl.base.css
-docroot/themes/custom/**/css/theme/varbase-heroslider-media.theme.css
+www/themes/custom/**/css/components/*.css
+www/themes/custom/**/css/plugins/*.css
+www/themes/custom/**/css/base/bootstrap.base.css
+www/themes/custom/**/css/rtl/base/vartheme_bs4-rtl.base.css
+www/themes/custom/**/css/theme/varbase-heroslider-media.theme.css
 

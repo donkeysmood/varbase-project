@@ -1,7 +1,7 @@
 name: varbase
 recipe: drupal9
 config:
-  webroot: docroot
+  webroot: www
   php: '7.4'
   drush: ^9
 services:
@@ -23,7 +23,7 @@ services:
 #  solr:
 #    type: solr:8.4
 #    config:
-#      dir: docroot/modules/contrib/search_api_solr/solr-conf/7.x
+#      dir: www/modules/contrib/search_api_solr/solr-conf/7.x
 tooling:
   phpcs:
     service: appserver
